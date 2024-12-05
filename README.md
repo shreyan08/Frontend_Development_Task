@@ -1,4 +1,4 @@
-#The details of project
+# The details of project
 
 This project is a frontend task built using React aims to design the layout of Blog and Blog Details page. It features a responsive UI with routing functionality, providing a seamless user experience across different sections.
 
